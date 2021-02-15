@@ -9,4 +9,4 @@ The path length is limited by the number of hops.
 This is the first step of solving the mathematical model in paper  "Network Coding Design For Reliable Wireless Sensor Networks" which contains two steps. The second step will be to choose the best nodes to perform network coding when failure scenario occurred.
 
 
-![NetGraph20Nodes](NetGraph20Nodes.pdf)
+![NetGraph20Nodes](NetGraph20Nodes.jpg)
